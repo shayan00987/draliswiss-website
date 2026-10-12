@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /backend/
+# Replace with your real domain:
+Sitemap: https://www.example.com/sitemap.xml
